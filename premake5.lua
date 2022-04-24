@@ -19,7 +19,7 @@ project "GLFW"
       }
 
       filter "system:windows"
-              systemversion "Latest"
+              systemversion "latest"
               staticruntime "On"
 
       files
